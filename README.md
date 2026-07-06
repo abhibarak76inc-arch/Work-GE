@@ -1,3 +1,3 @@
 # Work-GE
 
-@Contribution Margin (CM).md
+!Contribution Margin (CM).md
